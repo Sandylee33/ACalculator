@@ -1,0 +1,10 @@
+/Users/haoyu_li/Projects/ACalculator/ACalculator/bin/iPhoneSimulator/Debug/ACalculator.exe
+/Users/haoyu_li/Projects/ACalculator/ACalculator/bin/iPhoneSimulator/Debug/ACalculator.pdb
+/Users/haoyu_li/Projects/ACalculator/ACalculator/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhoneSimulator/Debug/ACalculator.csproj.CoreCompileInputs.cache
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhoneSimulator/Debug/ACalculator.exe
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhoneSimulator/Debug/ACalculator.pdb
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/actool/_PartialAppManifest.items
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/actool/_BundleResourceWithLogicalName.items
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/optimized/

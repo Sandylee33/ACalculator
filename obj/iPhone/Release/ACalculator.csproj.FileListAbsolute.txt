@@ -1,0 +1,10 @@
+/Users/haoyu_li/Projects/ACalculator/ACalculator/bin/iPhone/Release/ACalculator.exe
+/Users/haoyu_li/Projects/ACalculator/ACalculator/bin/iPhone/Release/ACalculator.pdb
+/Users/haoyu_li/Projects/ACalculator/ACalculator/bin/iPhone/Release/Calabash.dll
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhone/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhone/Release/actool/_PartialAppManifest.items
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhone/Release/optimized/
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhone/Release/ACalculator.csproj.CoreCompileInputs.cache
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhone/Release/ACalculator.exe
+/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhone/Release/ACalculator.pdb

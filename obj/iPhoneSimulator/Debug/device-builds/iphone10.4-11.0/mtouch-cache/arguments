@@ -1,0 +1,39 @@
+# Version: 11.0.0.0 (xcode9: 152b654a)
+# [first argument, ignore] # --cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.0.0.0/lib/mtouch/mtouch.exe \
+	/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/mtouch-cache \
+	--sim \
+	/Users/haoyu_li/Projects/ACalculator/ACalculator/bin/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/ACalculator.app \
+	--executable \
+	ACalculator \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	11.0 \
+	--targetver \
+	11.0 \
+	--aot-options=-O=-float32 \
+	--http-message-handler=HttpClientHandler \
+	--abi=x86_64 \
+	--symbollist \
+	/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Users/haoyu_li/Projects/ACalculator/packages/Xamarin.TestCloud.Agent.0.20.3/lib/Xamarin.iOS10/Calabash.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Users/haoyu_li/Projects/ACalculator/packages/Xamarin.TestCloud.Agent.0.20.3/lib/Xamarin.iOS10/Calabash.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/haoyu_li/Projects/ACalculator/ACalculator/bin/iPhoneSimulator/Debug/ACalculator.exe \

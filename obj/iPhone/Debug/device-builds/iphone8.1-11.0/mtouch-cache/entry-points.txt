@@ -1,0 +1,9 @@
+Function=xamarin_get_block_descriptor
+	/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhone/Debug/device-builds/iphone8.1-11.0/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhone/Debug/device-builds/iphone8.1-11.0/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_timezone_get_data
+	/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhone/Debug/device-builds/iphone8.1-11.0/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/haoyu_li/Projects/ACalculator/ACalculator/obj/iPhone/Debug/device-builds/iphone8.1-11.0/mtouch-cache/Link/mscorlib.dll
+Function=mono_pmip
